@@ -1,2 +1,2 @@
-# AdamPiskalla.github.io
-theme: minima
+# AdamPiskalla
+
